@@ -12,3 +12,5 @@ This paper proposes a multiple salient region detection and localization approac
 
 ![Capture2](https://user-images.githubusercontent.com/95354449/144282802-ecad1a3a-b897-4ddd-bd01-6270b2c13d38.JPG)
 # Data and code will be available in due course...
+# Contact
+Sudipta Bhuyan: sudiptabhuyan1[at]gmail[dot]com
