@@ -8,4 +8,5 @@ Proposed approach of shadow detection
  Qualitative comparisons
 ![Capture](https://user-images.githubusercontent.com/95354449/144281750-ad6da316-4249-4aeb-9a24-f7777d263fc7.JPG)
 
+* Quantitative comparison
 
