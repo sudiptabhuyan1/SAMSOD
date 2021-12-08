@@ -15,6 +15,7 @@ This paper proposes a multiple salient region detection and localization approac
 
 
 https://user-images.githubusercontent.com/95354449/145210632-a5a399a5-d22c-4a22-b22c-558250bab3aa.mp4
+
 https://user-images.githubusercontent.com/95354449/145210694-0d47b0e2-715b-4f16-bc3d-221946b3f6e4.mp4
 
 https://user-images.githubusercontent.com/95354449/145206232-82915d77-0176-4ac2-8da6-2d040c9d52bd.mp4
